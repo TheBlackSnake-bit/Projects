@@ -6,7 +6,7 @@ On this place you could see all the projects that I have done.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mis Logros en Ciberseguridad</title>
+    <title>Mis Logros en Ciberseguridad
     <link rel="stylesheet" href="styles.css"> <!-- Añadir CSS externo opcional -->
 </head>
 <body>
