@@ -22,7 +22,7 @@ My Archivements in Cybersecurity
 </head>
 <body>
     <h1>Mi Imagen en HTML</h1>
-    <img src="[ruta_de_tu_imagen.jpg](https://labs.hackthebox.com/storage/avatars/62b5837dfdfe1fb1ca3750cf2712da44.png)" alt="Machine = Meow = Easy" width="300" height="200">
+    <img src="(https://labs.hackthebox.com/storage/avatars/62b5837dfdfe1fb1ca3750cf2712da44.png)" alt="Machine = Meow = Easy" width="300" height="200">
 </body>
 </html>
             <li>Meow</li>
