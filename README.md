@@ -11,7 +11,7 @@ My Archivements in Cybersecurity
         <h1>My Archivements in Cybersecurity</h1>
     </header>
     <section id="Archivements">
-        <h2>Certificaciones</h2>
+        <h2>Certified</h2>
         <ul>
             <li>Certified CEH (Certified Ethical Hacker)</li>
             <li>CompTIA Security+</li>
