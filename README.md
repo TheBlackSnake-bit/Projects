@@ -30,3 +30,22 @@ On this place you could see all the projects that I have done.
     </footer>
 </body>
 </html>
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+section {
+    margin: 20px;
+}
+h1, h2 {
+    color: #333;
+}
